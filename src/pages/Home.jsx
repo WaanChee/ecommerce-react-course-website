@@ -9,7 +9,7 @@ export default function Home() {
         <div className="page">
             <div className="home-hero">
                 <h1 className="home-title">Welcome to ShopHub</h1>
-                <p>Discover amazing products at greate prices</p>
+                <p>Discover amazing products at great prices</p>
             </div>
 
             <div className="container">
